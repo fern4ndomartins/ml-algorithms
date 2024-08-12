@@ -17,6 +17,6 @@ Algorithm: k-Nearest Neighbors (k-NN)
 Details: Classifies based on nearest neighbors  
 Type: Unsupervised Learning  
 
-### compiling
+### Compiling
 To compile, just dont forget to use the -lm flag to link with the math library
 `gcc linear-regression.c -o linear-regression -lm`
