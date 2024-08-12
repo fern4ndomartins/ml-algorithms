@@ -2,7 +2,7 @@
 ## This repository contains my implementations of key machine learning algorithms in C.
 
 ### Files Overview
-linearregression.c
+[Link Text](linear-regression.c) ** linear regression **  
 Algorithm: Linear Regression with gradient descent
 Details: No use of Mean Squared Error (MSE)
 Type: Supervised Learning
