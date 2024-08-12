@@ -1,5 +1,5 @@
 # Machine Learning Algorithms in C
-## This repository contains my implementations of key machine learning algorithms in C.
+## This repository contains my implementations of simple machine learning algorithms in C.
 
 ### Files Overview
 [**linear regression**](linear-regression.c)  
@@ -16,3 +16,7 @@ Type: Supervised Learning
 Algorithm: k-Nearest Neighbors (k-NN)  
 Details: Classifies based on nearest neighbors  
 Type: Unsupervised Learning  
+
+### compiling
+To compile, just dont forget to use the -lm flag to link with the math library
+`gcc knn.c -o knn -lm`
