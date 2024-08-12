@@ -19,4 +19,4 @@ Type: Unsupervised Learning
 
 ### compiling
 To compile, just dont forget to use the -lm flag to link with the math library
-`gcc knn.c -o knn -lm`
+`gcc linear-regression.c -o linear-regression -lm`
